@@ -224,7 +224,8 @@ replace `[else: None]` by `[else: return 0]`
 if the error like this below comes during training section  replace the text in the config file as given below
 
 
-#### 5. important error First step cannot be zero when running train.py #51 
+
+### 5 - important error First step cannot be zero when running train.py #51 
 
 if this error comes change the faster rcnn config file with these just search and change this
 
