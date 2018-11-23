@@ -224,7 +224,7 @@ replace `[else: None]` by `[else: return 0]`
 if the error like this below comes during training section  replace the text in the config file as given below
 
 
-##########impo error First step cannot be zero when running train.py #51 
+########## 67 . important error First step cannot be zero when running train.py #51 
 
 
 
