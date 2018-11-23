@@ -252,9 +252,9 @@ train_config: {
   }
 
 for reference follow the link below
-
-https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10/issues/51
 ```
+https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10/issues/51
+
 
 
 
